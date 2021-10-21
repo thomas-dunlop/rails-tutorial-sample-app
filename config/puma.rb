@@ -1,6 +1,6 @@
 environment = "PRODUCTION"
 
-if environemnt == "PRODUCTION"
+if environment == "PRODUCTION"
   # FOR PRODUCTION
   
   workers Integer(ENV['WEB_CONCURRENCY'] || 2)
