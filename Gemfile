@@ -30,6 +30,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # CSS styling
 gem 'bootstrap-sass'
 
+# Pagination
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
